@@ -14,6 +14,10 @@ export function Skills() {
       title: "Databases & Tools",
       skills: ["PostgreSQL", "MySQL", "MongoDB", "Firebase", "Google Analytics 4", "Git", "Excel"],
     },
+    {
+      title: "Languages",
+      skills: ["English - Native/Fluent", "German - A2 Intermediate"],
+    },
   ]
 
   return (
